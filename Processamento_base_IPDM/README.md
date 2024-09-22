@@ -1,0 +1,74 @@
+# IPDM (Índice Paulista de Desenvolvimento Municipal)
+
+Por que agregar essas informações ao conjunto de ocorrências da **SSP-SP**?
+
+O objetivo do Índice Paulista de Desenvolvimento Municipal é "Comparar o esforço dos municípios paulistas para aumentar o desenvolvimento para sua população", como se define em sua documentação. Por isso, concluiu-se que entender a dinâmica de desenvolvimento da Riqueza, Longevidade e Escolaridade dos municípios do Estado de São Paulo seria benéfico para ter um panorama geral dos últimos anos e, possivelmente explicar as ocorrências criminais processadas da SSP-SP.
+
+O IPDM é caracterizado pelas seguintes classes:
+
+- Muito alto: 0.600 (+)
+- Alto:  0.550 - 0.600
+- Médio: 0.500 - 0.550
+- Baixo: 0.500 (-) 
+
+Os três domínios considerados no cálculo foram baseados nas seguintes variáveis:
+
+### Riqueza
+1. Consumo anual de energia elétrica, por ligação residencia.
+2. Consumo anual de energia elétrica no comércio, na agricultura e nos serviços, por ligação. 
+3. valor do rendimento de empregados formais e dos benefícios do INSS de aposentados e pensionistas.
+4. Produto Interno Bruto Per capita 2022 (Estimativa para os outros anos) 
+
+### Longevidade
+1. Taxas de mortalidade infantil (por mil nascidos vivos)
+2. Taxas de mortalidade perinatal (por mil nascidos vivos) 
+3. Taxas de mortalidade 15 a 39 anos (por mil hab.) 
+4. Taxas de mortalidade  60 a 69 anos (por mil hab.) 
+
+### Escolaridade
+1. Taxa de atendimento escolar na faixa etária de 0 a 3 anos (acesso à creche)
+2. Proporção média de alunos do 5º ano com proficiência em Língua Portuguesa e Matemática (%)
+3. Proporção média de  alunos do 9º ano com proficiência em Língua Portuguesa e Matemática (%)
+3. Taxas de distorção idade-série no Ensino Médio (%)
+
+## A Base
+Originalmente, os dados do IPDM foram organizados em cinco anos: 2014, 2016, 2018, 2020 e 2022. Em cada ano, registrou-se 16 indicadores correspondentes aos âmbitos de Riqueza, Longevidade e Educação para cada município.
+
+Como possivelmente essa base terá uma abordagem de Séries Temporais, optou-se por segmentar os dados por ano. Além disso, agregou-se as 80 informações de cada município em apenas uma linha, o que a princípio, eram 80 instâncias, uma referente a cada indicador em cada ano.
+
+|   | cod_ibge | Municipio  | Valor              | Ano  | Tipo         | Indicador1                                                      | Indicador2                                                                                 | Indicador3                                                                                  | Indicador4                                         | Indicador5             |
+|---|----------|------------|--------------------|------|--------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------|
+| 0 | 3500105  | Adamantina | ,548               | 2014 | IPDM         |                                                                 |                                                                                           |                                                                                            |                                                   |                       |
+| 1 | 3500105  | Adamantina | 2,42000319030148   | 2014 | Riqueza      | Consumo anual de energia elétrica residencial (MWh) por ligação |                                                                                           |                                                                                            |                                                   |                       |
+| 2 | 3500105  | Adamantina | 8,97541371158392   | 2014 | Riqueza      |                                                                 | Consumo anual de energia elétrica comercial, serviços e rural (MWh) por ligação           |                                                                                            |                                                   |                       |
+| 3 | 3500105  | Adamantina | 1375,20557875883   | 2014 | Riqueza      |                                                                 |                                                                                           | Rendimento do trabalho formal mais benefícios previdenciários per capita (R$ de 2022)     |                                                   |                       |
+| 4 | 3500105  | Adamantina | 53854,1008777062   | 2014 | Riqueza      |                                                                 |                                                                                           |                                                                                            | Produto Interno Bruto per capita (R$ de 2022)    |                       |
+| 5 | 3500105  | Adamantina | 7,42115027829314   | 2014 | Longevidade  | Taxas de mortalidade infantil (por mil nascidos vivos)          |                                                                                           |                                                                                            |                                                   |                       |
+| 6 | 3500105  | Adamantina | 11,0599078341014   | 2014 | Longevidade  |                                                                 | Taxas de mortalidade perinatal (por mil nascidos vivos)                                   |                                                                                            |                                                   |                       |
+| 7 | 3500105  | Adamantina | 1,01381996691745   | 2014 | Longevidade  |                                                                 |                                                                                           | Taxas de mortalidade 15 a 39 anos (por mil hab.)                                          |                                                   |                       |
+| 8 | 3500105  | Adamantina | 12,8799587841319   | 2014 | Longevidade  |                                                                 |                                                                                           |                                                                                            | Taxas de mortalidade  60 a 69 anos (por mil hab.) |                       |
+| 9 | 3500105  | Adamantina | 43,3949349760438   | 2014 | Escolaridade | Taxas de atendimento escolar de crianças de 0 a 3 anos (%)      |                                                                                           |                                                                                            |                                                   |                       |
+| 10| 3500105  | Adamantina | 49,7960881877164   | 2014 | Escolaridade |                                                                 | Proporção média de alunos do 5º ano com proficiência em Língua Portuguesa e Matemática (%)|                                                                                            |                                                   |                       |
+| 11| 3500105  | Adamantina | 26,8813422072978   | 2014 | Escolaridade |                                                                 |                                                                                           | Proporção média de  alunos do 9º ano com proficiência em Língua Portuguesa e Matemática (%)|                                                   |                       |
+| 12| 3500105  | Adamantina | 8,44444444444444   | 2014 | Escolaridade |                                                                 |                                                                                           |                                                                                            | Taxas de distorção idade-série no Ensino Médio (%)|                       |
+| 13| 3500105  | Adamantina | ,365               | 2014 | Riqueza      |                                                                 |                                                                                           |                                                                                            |                                                   | Indicador Riqueza     |
+| 14| 3500105  | Adamantina | ,77                | 2014 | Longevidade  |                                                                 |                                                                                           |                                                                                            |                                                   | Indicador Longevidade |
+| 15| 3500105  | Adamantina | ,51                | 2014 | Escolaridade |                                                                 |                                                                                           |                                                                                            |                                                   | Indicador Escolaridade|
+
+
+<div style="text-align: center;">
+  <p><em>Exemplo da base Original para o município de Adamantina (2014)</em></p>
+</div>
+
+O notebook ***ipdm.ipynb*** processou os 645 municípios de São Paulo para que eles fiquem numa formatação mais acessível para trabalhos futuros:
+
+| cod_ibge | Município  | Ano  | IPDM  | Consumo anual de energia elétrica residencial | Consumo anual de energia elétrica comercial | Rendimento do trabalho formal | Produto Interno Bruto per capita | Indicador Riqueza | Taxas de mortalidade infantil | Taxas de mortalidade perinatal | Taxas de mortalidade 15 a 39 anos | Taxas de mortalidade 60 a 69 anos | Indicador Longevidade | Taxa de atendimento escolar na faixa etária de 0 a 3 anos | Proporção média de alunos do 5º ano com proficiência em Língua Portuguesa e Matemática | Proporção média de alunos do 9º ano com proficiência em Língua Portuguesa e Matemática | Taxas de distorção idade-série no Ensino Médio | Indicador Escolaridade |
+|----------|------------|------|-------|------------------------------------------------|------------------------------------------------|-------------------------------|----------------------------------|-------------------|-------------------------------|-------------------------------|----------------------------------|----------------------------------|-------------------|----------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------|
+| 3500105   | Adamantina | 2014 | 0.548 | 2.420003                                       | 8.975414                                       | 1375.205579                   | 53854.100878                     | 0.365             | 7.421150                      | 11.059908                      | 1.013820                         | 12.879959                         | 0.770             | 43.394935                                                 | 49.796088                                                                          | 26.881342                                                                          | 8.444444                                                   | 0.510                |
+| 3500105   | Adamantina | 2016 | 0.554 | 2.291891                                       | 8.801709                                       | 1413.171805                   | 61154.621155                     | 0.365             | 12.855831                     | 14.545455                      | 1.062092                         | 12.967201                         | 0.710             | 48.259386                                                 | 69.060852                                                                          | 26.574696                                                                          | 7.142857                                                   | 0.587                |
+| 3500105   | Adamantina | 2018 | 0.560 | 2.641364                                       | 9.591297                                       | 1556.704707                   | 53854.100878                     | 0.382             | 10.810811                     | 19.538188                      | 1.044760                         | 12.827663                         | 0.686             | 51.528074                                                 | 72.893672                                                                          | 28.064909                                                                          | 7.511046                                                   | 0.612                |
+| 3500105   | Adamantina | 2020 | 0.594 | 2.728212                                       | 8.823260                                       | 1489.333082                   | 52045.297886                     | 0.378             | 3.384095                      | 12.573345                      | 1.065142                         | 12.912355                         | 0.779             | 53.658537                                                 | 72.977918                                                                          | 29.286725                                                                          | 6.623932                                                   | 0.625                |
+| 3500105   | Adamantina | 2022 | 0.565 | 2.452972                                       | 8.324105                                       | 1584.058333                   | 41516.103919                     | 0.359             | 8.802817                      | 11.373578                      | 1.177045                         | 14.683544                         | 0.742             | 54.559387                                                 | 60.285000                                                                          | 31.085000                                                                          | 5.690000                                                   | 0.594                |
+<div style="text-align: center;">
+  <p><em>Exemplo da base processada para o município de Adamantina</em></p>
+</div>
