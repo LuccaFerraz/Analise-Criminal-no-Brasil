@@ -1,0 +1,646 @@
+Região Geográfica Intermediária,Nome Região Geográfica Intermediária,Região Geográfica Imediata,Nome Região Geográfica Imediata,Janeiro 2022,Fevereiro 2022,Marco 2022,Abril 2022,Maio 2022,Junho 2022,Julho 2022,Agosto 2022,Setembro 2022,Outubro 2022,Novembro 2022,Dezembro 2022,Total,municipios,cod_ibge,reg_administrativa,reg_metropolitanas,Verificado
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Alto Alegre,3501103,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,1,2,3,4,5,2,1,4,2,4,4,1,33,Andradina,3502101,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,27,8,15,20,17,18,11,20,8,11,15,11,181,Araçatuba,3502804,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,1,0,1,1,0,3,Auriflama,3504206,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,1,1,0,2,0,0,0,4,Avanhandava,3504404,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,1,0,0,0,0,0,0,1,Barbosa,3505104,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,1,0,0,1,0,0,2,Bento de Abreu,3506201,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Bilac,3506409,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,15,7,16,17,20,10,15,8,7,5,4,9,133,Birigui,3506508,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,1,0,0,1,Braúna,3507704,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,1,1,Brejo Alegre,3507753,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,4,1,2,1,0,0,1,1,0,1,0,2,13,Buritama,3508108,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,0,0,0,0,1,0,0,0,2,0,0,0,3,Castilho,3511003,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,1,0,0,0,0,0,1,Clementina,3511904,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,1,0,0,0,0,0,0,0,0,0,0,1,2,Coroados,3512506,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Gabriel Monteiro,3516507,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,0,0,0,1,0,1,Gastão Vidigal,3516804,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,1,0,1,0,0,0,2,General Salgado,3516903,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,2,0,1,1,0,0,0,0,0,0,1,0,5,Glicério,3517109,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,1,0,3,2,2,2,0,0,1,2,0,1,14,Guararapes,3518206,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,0,0,0,0,0,1,1,0,0,0,0,0,2,Guaraçaí,3517802,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,1,0,0,0,0,0,1,0,2,Guzolândia,3518909,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,2,2,0,1,0,5,1,4,0,0,0,0,15,Ilha Solteira,3520442,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,0,0,0,0,0,0,0,0,0,0,0,0,0,Itapura,3523008,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,0,0,1,0,0,0,0,0,0,0,0,0,1,Lavínia,3526506,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Lourdes,3527256,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Luiziânia,3527702,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,1,1,1,1,0,0,0,0,1,0,1,3,9,Mirandópolis,3530102,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,0,0,0,0,0,0,0,0,0,0,0,0,0,Murutinga do Sul,3532108,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,0,0,0,0,0,0,Nova Castilho,3532868,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,0,0,0,0,0,0,0,0,0,0,0,0,0,Nova Independência,3533205,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,0,0,0,0,0,0,Nova Luzitânia,3533304,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,6,2,7,5,0,2,3,3,0,2,2,1,33,Penápolis,3537305,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,3,2,3,0,4,0,1,0,1,0,0,1,15,Pereira Barreto,3537404,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,1,0,0,0,0,1,0,0,2,Piacatu,3537701,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,0,0,0,0,1,1,Rubiácea,3544400,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,0,0,0,0,0,0,Santo Antônio do Aracanguá,3548054,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Santópolis do Aguapeí,3548401,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350024,Andradina,0,0,0,0,0,0,0,0,1,0,0,0,1,Sud Mennucci,3552304,RA de Araçatuba,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,2,0,0,0,0,2,Suzanápolis,3552551,RA de Araçatuba,Demais municípios,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,0,0,0,0,0,0,0,0,0,0,0,São João de Iracema,3549250,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Turiúba,3555208,RA de Araçatuba,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,2,2,3,0,5,5,1,0,6,0,1,0,25,Valparaíso,3556305,RA de Araçatuba,Demais municípios,True
+3503,Bauru,350009,Bauru,1,0,0,3,0,4,0,4,1,1,3,4,21,Agudos,3500709,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,0,0,0,0,0,0,0,0,Alvinlândia,3501509,RA de Marília,Demais municípios,True
+3504,Marília,350016,Tupã,0,0,0,0,0,0,0,0,0,0,0,0,0,Arco-Íris,3503356,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,1,0,1,0,2,Arealva,3503406,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,0,0,0,Avaí,3504305,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,0,0,0,Balbinos,3504701,RA de Bauru,Demais municípios,True
+3503,Bauru,350010,Jaú,0,0,1,1,0,2,0,0,1,1,3,0,9,Bariri,3505203,RA de Bauru,Demais municípios,True
+3503,Bauru,350010,Jaú,3,1,2,0,1,0,0,1,0,0,0,3,11,Barra Bonita,3505302,RA de Bauru,Demais municípios,True
+3504,Marília,350016,Tupã,2,0,0,0,0,1,0,2,1,0,0,0,6,Bastos,3505807,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,39,26,36,49,50,33,37,53,33,35,33,40,464,Bauru,3506003,RA de Bauru,Demais municípios,True
+3504,Marília,350015,Ourinhos,1,0,1,0,1,0,1,0,1,0,1,0,6,Bernardino de Campos,3506300,RA de Marília,Demais municípios,True
+3503,Bauru,350010,Jaú,1,0,1,1,0,1,0,0,0,0,0,0,4,Bocaina,3506805,RA de Bauru,Demais municípios,True
+3503,Bauru,350010,Jaú,0,0,0,2,0,0,1,0,0,0,0,0,3,Boracéia,3507308,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,0,0,0,Borebi,3507456,RA de Bauru,Demais municípios,True
+3504,Marília,350014,Assis,0,0,0,0,0,0,0,0,0,0,0,0,0,Borá,3507209,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,0,0,0,Cabrália Paulista,3508306,RA de Bauru,Demais municípios,True
+3503,Bauru,350012,Lins,0,0,0,0,0,0,3,1,0,0,0,0,4,Cafelândia,3508801,RA de Bauru,Demais municípios,True
+3504,Marília,350015,Ourinhos,0,0,1,0,0,0,1,0,1,0,0,0,3,Canitar,3510153,RA de Marília,Demais municípios,True
+3504,Marília,350015,Ourinhos,1,0,1,0,1,0,0,0,0,1,0,0,4,Chavantes,3557204,RA de Marília,Demais municípios,True
+3503,Bauru,350010,Jaú,1,1,0,3,2,3,0,0,0,3,0,3,16,Dois Córregos,3514106,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,1,0,0,0,0,1,0,0,0,0,1,0,3,Duartina,3514502,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,1,0,0,0,0,0,0,0,1,0,1,0,3,Echaporã,3514700,RA de Marília,Demais municípios,True
+3504,Marília,350015,Ourinhos,1,0,0,0,0,0,0,0,0,0,0,0,1,Espírito Santo do Turvo,3515194,RA de Marília,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,0,0,0,0,1,0,1,2,Fernão,3515657,RA de Marília,Demais municípios,True
+3504,Marília,350013,Marília,4,4,2,3,0,4,5,2,6,2,1,1,34,Garça,3516705,RA de Marília,Demais municípios,True
+3504,Marília,350013,Marília,1,0,0,0,0,0,0,1,1,0,0,1,4,Getulina,3517000,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,1,0,1,1,0,0,0,0,0,0,0,0,3,Guaimbê,3517307,RA de Bauru,Demais municípios,True
+3503,Bauru,350012,Lins,0,1,0,0,1,2,0,0,1,0,0,0,5,Guaiçara,3517208,RA de Bauru,Demais municípios,True
+3503,Bauru,350012,Lins,2,1,0,0,0,0,0,0,0,1,0,0,4,Guarantã,3518107,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,0,0,0,0,0,0,0,0,Gália,3516606,RA de Marília,Demais municípios,True
+3504,Marília,350016,Tupã,1,0,0,1,0,0,0,0,0,0,0,0,2,Herculândia,3519006,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,1,0,0,0,0,1,2,Iacanga,3519105,RA de Bauru,Demais municípios,True
+3504,Marília,350016,Tupã,1,0,0,0,0,0,0,0,0,0,0,0,1,Iacri,3519204,RA de Marília,Demais municípios,True
+3503,Bauru,350010,Jaú,1,0,0,1,2,2,0,2,5,1,0,0,14,Igaraçu do Tietê,3520004,RA de Bauru,Demais municípios,True
+3504,Marília,350015,Ourinhos,0,0,2,0,0,0,0,1,0,2,0,0,5,Ipaussu,3520905,RA de Marília,Demais municípios,True
+3503,Bauru,350010,Jaú,0,0,0,0,0,0,0,0,0,0,0,0,0,Itaju,3522000,RA de Bauru,Demais municípios,True
+3503,Bauru,350010,Jaú,3,0,0,1,1,1,0,0,0,0,0,0,6,Itapuí,3522901,RA de Bauru,Demais municípios,True
+3503,Bauru,350010,Jaú,10,8,8,4,10,7,3,7,6,15,4,4,86,Jaú,3525300,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,0,0,0,0,0,0,0,0,Júlio Mesquita,3525805,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,1,2,1,2,1,0,0,3,2,1,2,3,18,Lençóis Paulista,3526803,RA de Bauru,Demais municípios,True
+3503,Bauru,350012,Lins,8,5,7,5,9,9,8,8,4,5,9,4,81,Lins,3527108,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,1,0,1,Lucianópolis,3527504,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,0,0,0,0,0,1,0,1,Lupércio,3527801,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,1,1,1,0,0,1,1,1,0,2,8,Macatuba,3528007,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,14,8,11,14,16,12,19,10,10,17,14,14,159,Marília,3529005,RA de Marília,Demais municípios,True
+3503,Bauru,350010,Jaú,0,0,0,1,2,1,0,1,0,0,0,0,5,Mineiros do Tietê,3529807,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,1,0,0,0,0,0,0,1,Ocauçu,3533700,RA de Marília,Demais municípios,True
+3504,Marília,350013,Marília,0,0,1,0,0,0,0,0,0,0,0,1,2,Oriente,3534104,RA de Marília,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,0,0,0,0,0,0,0,0,Oscar Bressane,3534500,RA de Marília,Demais municípios,True
+3504,Marília,350015,Ourinhos,5,4,7,5,9,8,11,6,5,8,5,10,83,Ourinhos,3534708,RA de Marília,Demais municípios,True
+3504,Marília,350016,Tupã,0,0,0,0,1,1,0,1,1,0,1,1,6,Parapuã,3536000,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,0,0,0,Paulistânia,3536570,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,5,3,5,0,5,1,1,0,4,3,1,3,31,Pederneiras,3536703,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,1,0,0,1,0,0,0,1,0,1,2,1,7,Pirajuí,3538907,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,0,1,1,1,1,0,1,0,0,0,0,0,5,Piratininga,3539400,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,0,1,0,0,0,0,0,0,1,0,1,1,4,Pompéia,3540002,RA de Marília,Demais municípios,True
+3503,Bauru,350012,Lins,0,0,0,0,0,0,1,0,0,0,0,0,1,Pongaí,3540101,RA de Bauru,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,0,0,0,Presidente Alves,3541109,RA de Bauru,Demais municípios,True
+3503,Bauru,350012,Lins,1,3,3,2,3,3,3,0,3,0,1,4,26,Promissão,3541604,RA de Bauru,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,1,0,2,1,2,0,2,0,1,1,0,0,10,Quatá,3541703,RA de Marília,Demais municípios,True
+3504,Marília,350016,Tupã,0,0,0,0,0,0,0,0,0,0,1,0,1,Queiroz,3541802,RA de Marília,Demais municípios,True
+3504,Marília,350013,Marília,1,0,0,0,0,0,1,1,0,0,0,0,3,Quintana,3542008,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,0,1,0,0,0,0,0,0,1,0,0,0,2,Reginópolis,3542503,RA de Bauru,Demais municípios,True
+3504,Marília,350015,Ourinhos,0,0,0,0,0,0,0,0,0,0,0,0,0,Ribeirão do Sul,3543204,RA de Marília,Demais municípios,True
+3504,Marília,350016,Tupã,0,0,0,0,0,0,2,0,2,1,0,0,5,Rinópolis,3543808,RA de Marília,Demais municípios,True
+3503,Bauru,350012,Lins,0,0,1,0,0,0,0,2,0,1,0,0,4,Sabino,3544608,RA de Bauru,Demais municípios,True
+3504,Marília,350015,Ourinhos,1,0,0,0,0,1,0,0,1,0,0,1,4,Salto Grande,3545407,RA de Marília,Demais municípios,True
+3504,Marília,350015,Ourinhos,6,1,2,3,1,1,2,3,1,3,1,0,24,Santa Cruz do Rio Pardo,3546405,RA de Marília,Demais municípios,True
+3504,Marília,350015,Ourinhos,2,0,1,0,0,0,0,1,0,0,0,0,4,São Pedro do Turvo,3550506,RA de Marília,Demais municípios,True
+3504,Marília,350017,Piraju,0,0,1,0,1,0,0,0,0,0,1,0,3,Timburi,3554607,RA de Marília,Demais municípios,True
+3504,Marília,350016,Tupã,0,2,2,4,3,1,2,5,4,2,2,0,27,Tupã,3555000,RA de Marília,Demais municípios,True
+3503,Bauru,350009,Bauru,0,0,0,0,0,0,0,0,0,0,0,0,0,Ubirajara,3555505,RA de Bauru,Demais municípios,True
+3503,Bauru,350012,Lins,0,0,0,0,0,0,0,0,0,0,0,0,0,Uru,3555901,RA de Bauru,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,2,1,10,1,2,0,6,0,0,22,Vera Cruz,3556602,RA de Marília,Demais municípios,True
+3504,Marília,350013,Marília,0,0,1,1,0,0,0,0,0,0,0,0,2,Álvaro de Carvalho,3501400,RA de Marília,Demais municípios,True
+3502,Sorocaba,350007,Avaré,0,0,0,0,0,0,0,0,0,0,0,0,0,Óleo,3533809,RA de Marília,Demais municípios,True
+3510,Campinas,350048,Amparo,2,1,6,5,3,2,5,2,2,0,2,0,30,Amparo,3501905,RA de Campinas,Demais municípios,True
+3510,Campinas,350041,Bragança Paulista,20,18,23,24,24,29,19,14,16,14,21,10,232,Atibaia,3504107,RA de Campinas,Demais municípios,True
+3510,Campinas,350041,Bragança Paulista,1,1,0,0,2,3,1,2,0,3,3,8,24,Bom Jesus dos Perdões,3507100,RA de Campinas,Demais municípios,True
+3510,Campinas,350041,Bragança Paulista,10,12,11,11,27,19,13,17,16,14,12,9,171,Bragança Paulista,3507605,RA de Campinas,Demais municípios,True
+3510,Campinas,350039,Jundiaí,3,1,3,1,3,1,2,7,3,1,4,2,31,Cabreúva,3508405,RA de Campinas,RM de Jundiai,True
+3510,Campinas,350038,Campinas,463,460,529,515,495,463,427,389,391,493,492,451,5568,Campinas,3509502,RA de Campinas,RM de Campinas,True
+3510,Campinas,350039,Jundiaí,21,10,16,18,24,19,19,24,22,13,15,21,222,Campo Limpo Paulista,3509601,RA de Campinas,RM de Jundiai,True
+3510,Campinas,350043,Mogi Guaçu,0,0,0,1,2,0,2,0,0,1,1,5,12,Estiva Gerbi,3557303,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,0,0,0,1,0,0,1,1,0,0,0,0,3,Holambra,3519055,RA de Campinas,RM de Campinas,True
+3510,Campinas,350038,Campinas,18,17,20,16,20,28,29,21,25,40,28,20,282,Indaiatuba,3520509,RA de Campinas,RM de Campinas,True
+3510,Campinas,350043,Mogi Guaçu,13,15,11,14,9,6,4,12,20,5,9,11,129,Itapira,3522604,RA de Campinas,Demais municípios,True
+3510,Campinas,350039,Jundiaí,15,18,18,11,15,11,9,23,9,22,14,8,173,Itatiba,3523404,RA de Campinas,RM de Campinas,True
+3510,Campinas,350039,Jundiaí,9,7,12,7,9,7,9,4,4,9,5,5,87,Itupeva,3524006,RA de Campinas,RM de Jundiai,True
+3510,Campinas,350038,Campinas,6,9,15,2,9,8,4,13,25,2,9,6,108,Jaguariúna,3524709,RA de Campinas,RM de Campinas,True
+3510,Campinas,350039,Jundiaí,7,5,3,5,4,5,2,2,6,4,5,2,50,Jarinu,3525201,RA de Campinas,RM de Jundiai,True
+3510,Campinas,350041,Bragança Paulista,1,0,1,1,0,1,0,1,0,3,0,1,9,Joanópolis,3525508,RA de Campinas,Demais municípios,True
+3510,Campinas,350039,Jundiaí,71,78,97,82,86,95,78,85,91,133,104,80,1080,Jundiaí,3525904,RA de Campinas,RM de Jundiai,True
+3510,Campinas,350048,Amparo,0,0,1,0,0,0,1,1,0,0,0,0,3,Lindóia,3527009,RA de Campinas,Demais municípios,True
+3510,Campinas,350039,Jundiaí,5,1,3,4,2,2,5,2,5,4,8,2,43,Louveira,3527306,RA de Campinas,RM de Jundiai,True
+3510,Campinas,350043,Mogi Guaçu,45,10,25,23,26,18,18,20,16,33,15,21,270,Mogi Guaçu,3530706,RA de Campinas,Demais municípios,True
+3510,Campinas,350043,Mogi Guaçu,20,13,16,9,17,16,5,13,9,17,16,13,164,Mogi Mirim,3530805,RA de Campinas,Demais municípios,True
+3510,Campinas,350048,Amparo,0,0,1,0,0,0,0,0,0,0,0,0,1,Monte Alegre do Sul,3531209,RA de Campinas,Demais municípios,True
+3510,Campinas,350039,Jundiaí,1,0,0,0,0,0,4,0,0,0,1,1,7,Morungaba,3532009,RA de Campinas,RM de Campinas,True
+3510,Campinas,350041,Bragança Paulista,0,0,2,5,1,1,2,0,2,3,4,1,21,Nazaré Paulista,3532405,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,15,15,25,28,14,16,18,23,14,18,7,23,216,Paulínia,3536505,RA de Campinas,RM de Campinas,True
+3510,Campinas,350041,Bragança Paulista,0,0,0,1,0,0,0,1,0,0,0,0,2,Pedra Bela,3536802,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,2,0,9,5,7,3,3,5,1,5,0,0,40,Pedreira,3537107,RA de Campinas,RM de Campinas,True
+3510,Campinas,350041,Bragança Paulista,0,1,1,0,0,0,0,1,0,0,0,0,3,Pinhalzinho,3538204,RA de Campinas,Demais municípios,True
+3510,Campinas,350041,Bragança Paulista,0,1,1,2,1,1,1,1,2,1,0,4,15,Piracaia,3538600,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,4,0,0,1,2,1,2,2,1,2,3,2,20,Santo Antônio de Posse,3548005,RA de Campinas,RM de Campinas,True
+3510,Campinas,350048,Amparo,2,0,2,0,1,4,1,2,0,2,1,2,17,Serra Negra,3551603,RA de Campinas,Demais municípios,True
+3510,Campinas,350041,Bragança Paulista,2,0,3,0,2,2,0,2,0,0,1,2,14,Socorro,3552106,RA de Campinas,Demais municípios,True
+3510,Campinas,350041,Bragança Paulista,2,0,0,0,0,0,1,1,0,0,1,0,5,Tuiuti,3554953,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,6,11,11,16,20,14,19,12,14,12,8,13,156,Valinhos,3556206,RA de Campinas,RM de Campinas,True
+3510,Campinas,350041,Bragança Paulista,1,1,0,0,0,0,1,6,2,0,1,3,15,Vargem,3556354,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,8,5,11,13,10,9,7,2,3,6,8,6,88,Vinhedo,3556701,RA de Campinas,RM de Campinas,True
+3510,Campinas,350039,Jundiaí,29,21,21,26,22,19,16,21,17,25,29,25,271,Várzea Paulista,3556503,RA de Campinas,RM de Jundiai,True
+3510,Campinas,350048,Amparo,1,0,0,0,0,1,0,1,1,0,0,1,5,Águas de Lindóia,3500501,RA de Campinas,Demais municípios,True
+3501,São Paulo,350001,São Paulo,11805,10275,12236,12146,11654,11555,11305,11786,11811,12807,12445,13096,142921,São Paulo,3550308,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,26,12,19,23,31,21,28,26,21,19,26,26,278,Arujá,3503901,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,73,66,67,88,69,75,61,70,93,88,66,66,882,Barueri,3505708,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,3,0,2,2,5,0,1,0,2,1,2,1,19,Biritiba Mirim,3506607,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,21,19,20,19,9,20,10,15,17,20,19,16,205,Caieiras,3509007,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,12,14,16,17,21,20,15,18,18,9,20,28,208,Cajamar,3509205,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,181,175,171,174,192,244,191,182,220,258,182,202,2372,Carapicuíba,3510609,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,83,71,83,89,82,73,74,92,82,78,95,96,998,Cotia,3513009,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,360,330,399,398,345,382,369,403,403,357,424,428,4598,Diadema,3513801,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,125,112,115,107,125,130,108,112,118,118,117,124,1411,Embu das Artes,3515004,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,15,10,8,23,12,20,12,16,20,15,21,21,193,Embu Guaçú,3515103,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,159,141,162,139,110,192,135,153,159,156,133,145,1784,Ferraz de Vasconcelos,3515707,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,57,56,81,47,87,65,51,75,69,73,70,89,820,Francisco Morato,3516309,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,36,25,38,26,38,31,36,27,47,46,53,42,445,Franco da Rocha,3516408,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,6,1,3,4,1,3,2,4,2,0,1,4,31,Guararema,3518305,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,539,453,578,494,541,556,491,529,562,642,639,601,6625,Guarulhos,3518800,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,125,105,145,121,110,126,109,105,101,98,99,114,1358,Itapecerica da Serra,3522208,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,48,55,60,70,72,108,82,83,80,82,83,74,897,Itapevi,3522505,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,216,199,243,241,174,269,246,291,265,258,254,246,2902,Itaquaquecetuba,3523107,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,22,18,30,30,26,25,28,42,35,39,45,37,377,Jandira,3525003,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,12,10,12,11,4,1,5,5,3,7,2,5,77,Juquitiba,3526209,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,17,17,29,24,18,11,17,22,18,18,32,28,251,Mairiporã,3528502,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,168,168,178,215,209,179,189,185,221,257,297,259,2525,Mauá,3529401,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,94,89,118,79,86,116,95,102,76,91,106,114,1166,Mogi das Cruzes,3530607,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,419,420,516,400,425,474,421,501,504,503,439,487,5509,Osasco,3534401,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,0,1,0,0,1,1,1,1,3,3,2,1,14,Pirapora do Bom Jesus,3539103,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,94,69,81,57,69,59,51,94,85,107,82,64,912,Poá,3539806,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,22,20,26,20,31,25,29,29,29,25,25,44,325,Ribeirão Pires,3543303,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,3,2,2,2,4,5,4,7,9,3,7,4,52,Rio Grande da Serra,3544103,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,1,0,1,1,0,1,0,1,0,0,2,1,8,Salesópolis,3545001,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,5,4,8,2,0,6,8,7,3,2,5,5,55,Santa Isabel,3546801,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,10,10,11,10,13,17,12,28,16,14,11,15,167,Santana de Parnaíba,3547304,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,565,504,643,624,594,594,546,593,563,614,670,620,7130,Santo André,3547809,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,169,171,136,137,131,137,139,156,166,180,167,186,1875,Suzano,3552502,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,550,399,490,545,581,498,545,543,500,569,563,519,6302,São Bernardo do Campo,3548708,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,100,78,93,80,56,72,45,68,46,56,71,69,834,São Caetano do Sul,3548807,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,4,2,2,4,4,3,6,6,3,3,4,3,44,São Lourenço da Serra,3549953,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,164,141,123,136,133,112,130,178,147,153,152,130,1699,Taboão da Serra,3552809,RM  de São Paulo,RM de Sao Paulo,True
+3501,São Paulo,350001,São Paulo,12,6,8,1,9,5,9,9,6,6,13,9,93,Vargem Grande Paulista,3556453,RM  de São Paulo,RM de Sao Paulo,True
+3510,Campinas,350044,São João da Boa Vista,2,2,2,2,2,0,1,5,1,0,0,3,20,Aguaí,3500303,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,24,22,26,27,36,42,28,24,21,24,21,32,327,Americana,3501608,RA de Campinas,RM de Campinas,True
+3510,Campinas,350046,Rio Claro,0,0,0,0,0,1,0,0,0,1,2,2,6,Analândia,3502002,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350045,Araras,16,6,13,12,24,25,10,21,18,11,24,7,187,Araras,3503307,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350038,Campinas,6,3,4,5,4,6,4,5,3,3,5,4,52,Artur Nogueira,3503802,RA de Campinas,RM de Campinas,True
+3503,Bauru,350010,Jaú,2,0,2,0,2,3,1,1,0,0,1,0,12,Brotas,3507902,RA de Campinas,Demais municípios,True
+3510,Campinas,350047,São José do Rio Pardo - Mococa,2,0,1,0,1,0,0,0,0,0,1,0,5,Caconde,3508702,RA de Campinas,Demais municípios,True
+3510,Campinas,350040,Piracicaba,0,3,5,2,2,2,1,1,1,3,1,2,23,Capivari,3510401,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350044,São João da Boa Vista,1,0,5,2,2,1,0,2,1,1,0,2,17,Casa Branca,3510807,RA de Campinas,Demais municípios,True
+3510,Campinas,350040,Piracicaba,0,0,2,1,4,0,0,2,2,2,1,1,15,Charqueada,3511706,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350045,Araras,11,3,5,7,2,8,3,3,4,2,3,6,57,Conchal,3512209,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350042,Limeira,5,7,3,0,3,1,5,8,2,3,1,2,40,Cordeirópolis,3512407,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350046,Rio Claro,0,2,0,0,0,1,0,0,1,0,1,0,5,Corumbataí,3512704,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350038,Campinas,12,7,8,11,8,6,14,2,7,7,12,9,103,Cosmópolis,3512803,RA de Campinas,RM de Campinas,True
+3510,Campinas,350047,São José do Rio Pardo - Mococa,0,0,0,1,0,1,0,0,0,0,0,0,2,Divinolândia,3513900,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,0,1,0,0,0,0,0,1,1,0,0,1,4,Elias Fausto,3514908,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350042,Limeira,1,0,1,1,3,1,1,0,3,3,0,1,15,Engenheiro Coelho,3515152,RA de Campinas,RM de Campinas,True
+3510,Campinas,350044,São João da Boa Vista,2,0,2,1,0,5,0,0,1,5,3,3,22,Espírito Santo do Pinhal,3515186,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,101,80,74,77,84,61,63,78,68,71,95,80,932,Hortolândia,3519071,RA de Campinas,RM de Campinas,True
+3510,Campinas,350046,Rio Claro,0,0,0,0,0,1,0,1,0,1,0,0,3,Ipeúna,3521101,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350042,Limeira,1,1,2,0,3,4,1,2,2,2,0,0,18,Iracemápolis,3521408,RA de Campinas,RM de Piracicaba,True
+3509,Araraquara,350037,São Carlos,0,2,0,2,3,0,0,3,2,0,1,1,14,Itirapina,3523602,RA de Campinas,Demais municípios,True
+3510,Campinas,350047,São José do Rio Pardo - Mococa,0,0,1,0,0,0,0,0,0,0,1,0,2,Itobi,3523800,RA de Campinas,Demais municípios,True
+3510,Campinas,350045,Araras,7,8,17,16,5,7,5,9,6,5,9,9,103,Leme,3526704,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350042,Limeira,47,48,86,64,73,78,54,102,44,51,61,69,777,Limeira,3526902,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350047,São José do Rio Pardo - Mococa,8,4,5,6,2,7,4,2,3,17,3,8,69,Mococa,3530508,RA de Campinas,RM de Ribeirao Preto,True
+3510,Campinas,350040,Piracicaba,0,0,0,0,0,0,0,0,0,0,1,0,1,Mombuca,3530904,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350038,Campinas,8,9,15,7,17,6,6,11,14,13,8,8,122,Monte Mor,3531803,RA de Campinas,RM de Campinas,True
+3510,Campinas,350038,Campinas,5,8,6,5,12,13,8,8,7,7,5,11,95,Nova Odessa,3533403,RA de Campinas,RM de Campinas,True
+3510,Campinas,350040,Piracicaba,44,46,54,77,68,58,40,43,40,47,37,38,592,Piracicaba,3538709,RA de Campinas,RM de Piracicaba,True
+3509,Araraquara,350037,São Carlos,5,2,19,11,9,4,4,3,8,2,7,6,80,Pirassununga,3539301,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350040,Piracicaba,0,0,1,0,0,1,0,0,1,0,0,0,3,Rafard,3542107,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350046,Rio Claro,11,18,30,21,40,28,35,35,37,29,30,26,340,Rio Claro,3543907,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350040,Piracicaba,1,2,1,3,3,1,2,1,1,1,4,2,22,Rio das Pedras,3544004,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350040,Piracicaba,0,0,0,2,0,0,1,0,1,0,2,1,7,Saltinho,3545159,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350038,Campinas,25,18,24,18,24,20,21,28,25,14,14,18,249,Santa Bárbara d'Oeste,3545803,RA de Campinas,RM de Campinas,True
+3510,Campinas,350045,Araras,0,0,0,0,1,0,0,0,0,0,0,2,3,Santa Cruz da Conceição,3546207,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350044,São João da Boa Vista,1,3,2,1,1,1,0,0,1,1,1,1,13,Santa Cruz das Palmeiras,3546306,RA de Campinas,Demais municípios,True
+3510,Campinas,350046,Rio Claro,1,0,1,0,0,1,3,4,2,2,1,0,15,Santa Gertrudes,3546702,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350040,Piracicaba,1,0,0,0,1,1,0,0,0,0,0,0,3,Santa Maria da Serra,3547007,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350044,São João da Boa Vista,0,0,0,0,0,0,0,0,0,0,0,0,0,Santo Antônio do Jardim,3548104,RA de Campinas,Demais municípios,True
+3510,Campinas,350038,Campinas,89,79,77,93,72,104,85,94,66,61,72,86,978,Sumaré,3552403,RA de Campinas,RM de Campinas,True
+3510,Campinas,350047,São José do Rio Pardo - Mococa,1,0,6,3,0,2,3,1,1,2,3,7,29,São José do Rio Pardo,3549706,RA de Campinas,Demais municípios,True
+3510,Campinas,350044,São João da Boa Vista,3,1,3,3,0,7,4,0,1,6,8,1,37,São João da Boa Vista,3549102,RA de Campinas,Demais municípios,True
+3510,Campinas,350040,Piracicaba,1,2,1,2,3,1,1,4,2,2,4,4,27,São Pedro,3550407,RA de Campinas,RM de Piracicaba,True
+3510,Campinas,350047,São José do Rio Pardo - Mococa,0,0,0,0,1,1,0,1,0,0,0,1,4,São Sebastião da Grama,3550803,RA de Campinas,Demais municípios,True
+3510,Campinas,350044,São João da Boa Vista,0,2,0,2,2,0,0,0,0,0,1,0,7,Tambaú,3553302,RA de Campinas,RM de Ribeirao Preto,True
+3510,Campinas,350047,São José do Rio Pardo - Mococa,0,0,1,0,0,0,0,0,0,0,0,0,1,Tapiratiba,3553609,RA de Campinas,Demais municípios,True
+3503,Bauru,350010,Jaú,1,0,0,0,1,0,1,0,0,0,1,0,4,Torrinha,3554706,RA de Campinas,Demais municípios,True
+3510,Campinas,350044,São João da Boa Vista,0,0,4,3,1,4,1,3,1,2,4,2,25,Vargem Grande do Sul,3556404,RA de Campinas,Demais municípios,True
+3510,Campinas,350044,São João da Boa Vista,0,0,0,0,0,0,0,0,0,0,0,1,1,Águas da Prata,3500402,RA de Campinas,Demais municípios,True
+3510,Campinas,350040,Piracicaba,0,0,0,0,0,0,0,0,0,0,0,1,1,Águas de São Pedro,3500600,RA de Campinas,RM de Piracicaba,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,2,1,0,1,0,0,1,1,0,6,Adamantina,3500105,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,1,1,Alfredo Marcondes,3500808,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,1,0,0,0,0,0,0,0,1,Anhumas,3502408,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,7,3,6,2,6,7,8,6,7,6,1,6,65,Assis,3504008,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,Caiabu,3508900,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350021,Presidente Epitácio-Presidente Venceslau,0,0,0,0,0,0,0,0,0,0,0,0,0,Caiuá,3509106,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350013,Marília,0,0,0,0,0,0,0,0,0,0,0,0,0,Campos Novos Paulista,3509809,RA de Marília,Demais municípios,True
+3504,Marília,350014,Assis,0,0,0,0,0,0,0,0,0,0,0,0,0,Cruzália,3513306,RA de Marília,Demais municípios,True
+3504,Marília,350014,Assis,2,2,2,1,3,2,2,1,2,2,1,2,22,Cândido Mota,3510005,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,1,1,0,3,0,1,4,2,1,13,Dracena,3514403,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,Emilianópolis,3515129,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,Estrela do Norte,3515301,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,1,0,0,0,0,0,0,0,0,0,0,0,1,Euclides da Cunha Paulista,3515350,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,0,0,0,0,0,0,0,0,Flora Rica,3515806,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,0,0,0,0,0,0,0,0,0,0,0,0,0,Florínia,3516101,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,0,0,0,0,0,0,0,0,0,0,Flórida Paulista,3516002,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350015,Ourinhos,0,0,0,4,0,0,0,0,0,0,0,0,4,Ibirarema,3519501,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,1,0,0,0,0,0,1,0,2,Iepê,3519907,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,Indiana,3520608,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,0,0,0,0,0,0,0,0,0,0,Inúbia Paulista,3520806,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,1,0,0,0,0,0,1,2,Irapuru,3521606,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,João Ramalho,3525607,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,1,0,0,2,0,0,0,0,3,Junqueirópolis,3526001,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,1,0,0,0,0,0,1,0,0,2,Lucélia,3527405,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,0,0,0,0,0,0,0,0,0,0,0,0,0,Lutécia,3527900,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350021,Presidente Epitácio-Presidente Venceslau,0,0,0,0,0,0,0,0,0,0,0,0,0,Marabá Paulista,3528700,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,0,0,0,0,0,1,0,0,0,0,0,0,1,Maracaí,3528809,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,0,0,0,0,0,0,0,0,0,0,Mariápolis,3528908,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,1,2,0,0,0,0,0,0,0,0,3,Martinópolis,3529203,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,3,1,0,1,0,1,0,0,0,0,6,Mirante do Paranapanema,3530201,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,0,0,0,0,0,0,0,0,Monte Castelo,3531605,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,Nantes,3532157,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,1,0,0,0,0,0,0,0,0,0,0,1,Narandiba,3532207,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,0,0,0,0,0,0,0,0,Nova Guataporanga,3533106,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,2,0,0,1,0,1,1,1,1,1,1,1,10,Osvaldo Cruz,3534609,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,0,0,0,1,0,0,0,1,Ouro Verde,3534807,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,0,0,0,0,0,0,0,0,0,0,Pacaembu,3534906,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,0,2,0,3,0,0,0,0,0,0,0,1,6,Palmital,3535309,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,1,0,0,0,0,0,0,0,0,0,1,Panorama,3535408,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,3,1,2,0,4,2,0,2,0,4,1,2,21,Paraguaçu Paulista,3535507,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,1,0,0,0,0,0,0,1,Paulicéia,3536406,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,0,0,0,0,0,0,0,0,0,0,0,0,0,Pedrinhas Paulista,3537156,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350021,Presidente Epitácio-Presidente Venceslau,0,0,0,0,0,0,0,0,0,0,0,0,0,Piquerobi,3538303,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,1,0,1,0,1,0,1,0,0,0,0,0,4,Pirapozinho,3539202,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,0,0,0,1,0,0,0,0,1,0,0,1,3,Platina,3539707,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,0,0,0,0,0,0,0,0,0,0,Pracinha,3540853,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,1,0,0,0,0,0,0,1,Presidente Bernardes,3541208,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350021,Presidente Epitácio-Presidente Venceslau,0,0,1,1,3,1,3,1,0,1,1,1,13,Presidente Epitácio,3541307,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,9,9,21,20,11,13,17,13,4,5,12,10,144,Presidente Prudente,3541406,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350021,Presidente Epitácio-Presidente Venceslau,0,0,0,2,1,1,2,1,1,0,0,0,8,Presidente Venceslau,3541505,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,2,1,1,0,0,4,0,1,9,Rancharia,3542206,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,1,0,0,0,0,0,0,1,2,Regente Feijó,3542404,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,Ribeirão dos Índios,3543238,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,1,0,0,0,0,0,0,0,1,0,1,0,3,Rosana,3544251,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,0,0,0,0,0,0,0,0,0,0,Sagres,3544707,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350019,Adamantina - Lucélia,0,0,0,0,0,0,0,0,0,0,1,0,1,Salmourão,3545100,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,0,0,0,0,0,0,0,0,Sandovalina,3545506,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,0,0,0,0,0,0,0,0,Santa Mercedes,3547106,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,1,0,1,0,0,0,0,0,0,2,Santo Anastácio,3547700,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,1,0,0,0,0,1,0,0,2,Santo Expedito,3548302,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,0,0,0,0,0,0,0,0,São João do Pau d'Alho,3549300,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,0,0,0,1,0,0,0,0,0,0,1,Taciba,3552908,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,1,0,0,0,0,0,0,0,0,0,0,0,1,Tarabaí,3553906,RA de Presidente Prudente,Demais municípios,True
+3504,Marília,350014,Assis,0,1,0,0,0,0,0,0,0,0,0,0,1,Tarumã,3553955,RA de Marília,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,1,1,1,0,0,1,0,2,0,0,0,0,6,Teodoro Sampaio,3554300,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350020,Dracena,0,0,0,0,0,0,0,0,0,0,0,0,0,Tupi Paulista,3555109,RA de Presidente Prudente,Demais municípios,True
+3505,Presidente Prudente,350018,Presidente Prudente,0,0,1,2,0,1,1,0,0,0,1,1,7,Álvares Machado,3501301,RA de Presidente Prudente,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,0,0,0,1,1,Altair,3500907,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,1,0,1,0,0,0,2,0,0,0,4,Altinópolis,3501004,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3509,Araraquara,350036,Araraquara,3,2,7,3,1,1,2,1,6,1,3,9,39,Américo Brasiliense,3501707,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350035,Ituverava,1,1,1,1,1,0,1,1,0,0,1,1,9,Aramina,3503000,RA de Franca,Demais municípios,True
+3509,Araraquara,350036,Araraquara,34,30,28,24,14,29,23,21,18,20,24,20,285,Araraquara,3503208,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,20,22,14,17,19,6,16,24,13,15,12,15,193,Barretos,3505500,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,3,1,3,6,6,9,0,0,2,2,4,2,38,Barrinha,3505609,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,1,2,4,4,0,6,2,5,2,4,3,33,Batatais,3505906,RA de Franca,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350032,Barretos,9,4,6,5,3,5,1,5,3,6,1,5,53,Bebedouro,3506102,RA de Barretos,Demais municípios,True
+3509,Araraquara,350036,Araraquara,0,1,1,2,1,1,3,0,0,0,0,2,11,Boa Esperança do Sul,3506706,RA Central,Demais municípios,True
+3509,Araraquara,350036,Araraquara,0,0,0,4,1,2,0,0,1,0,0,1,9,Borborema,3507407,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,2,2,4,0,2,0,3,1,2,1,3,3,23,Brodowski,3507803,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350035,Ituverava,0,0,0,0,0,0,0,0,0,0,0,0,0,Buritizal,3508207,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,0,0,0,0,0,0,0,0,0,0,0,0,0,Cajobi,3509304,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,2,0,2,0,4,2,2,7,2,2,3,3,29,Cajuru,3509403,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350032,Barretos,5,0,3,1,1,1,2,0,0,2,2,1,18,Colina,3512001,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,0,0,2,2,0,0,1,0,2,2,0,0,9,Colômbia,3512100,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,1,0,3,0,1,2,3,5,5,3,2,25,Cravinhos,3513108,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350033,Franca,0,0,0,0,2,0,0,2,0,1,1,0,6,Cristais Paulista,3513207,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,0,0,0,0,0,0,1,0,0,0,1,Cássia dos Coqueiros,3510906,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3509,Araraquara,350036,Araraquara,0,1,0,0,0,0,0,0,0,0,0,0,1,Cândido Rodrigues,3510104,RA Central,Demais municípios,True
+3509,Araraquara,350037,São Carlos,2,0,1,5,1,4,3,5,7,3,4,1,36,Descalvado,3513702,RA Central,Demais municípios,True
+3509,Araraquara,350036,Araraquara,0,0,1,0,0,2,0,0,2,0,1,0,6,Dobrada,3514007,RA Central,Demais municípios,True
+3509,Araraquara,350037,São Carlos,0,0,0,1,1,0,0,0,0,0,0,0,2,Dourado,3514304,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,1,2,0,1,0,1,0,0,1,0,1,7,Dumont,3514601,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,0,0,0,0,0,0,0,0,0,0,Embaúba,3514957,RA de Barretos,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,0,0,0,1,0,0,0,0,0,1,Fernando Prestes,3515608,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350033,Franca,37,27,35,36,41,30,33,55,33,35,26,26,414,Franca,3516200,RA de Franca,Demais municípios,True
+3509,Araraquara,350036,Araraquara,0,0,0,1,0,1,0,0,0,0,0,1,3,Gavião Peixoto,3516853,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,1,1,0,0,0,1,0,0,0,0,0,0,3,Guaraci,3517901,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,10,2,5,6,8,6,8,9,6,10,7,7,84,Guariba,3518602,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350035,Ituverava,0,0,3,2,3,0,3,0,1,0,1,2,15,Guará,3517703,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,1,0,0,3,0,0,0,1,0,1,6,Guatapará,3518859,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350032,Barretos,1,2,2,3,2,4,2,4,3,2,2,4,31,Guaíra,3517406,RA de Barretos,Demais municípios,True
+3509,Araraquara,350037,São Carlos,5,3,1,1,3,0,3,0,1,2,0,3,22,Ibaté,3519303,RA Central,Demais municípios,True
+3509,Araraquara,350036,Araraquara,3,2,10,8,10,5,3,2,5,3,2,1,54,Ibitinga,3519600,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350035,Ituverava,2,1,1,5,7,1,2,3,6,0,2,5,35,Igarapava,3520103,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350034,São Joaquim da Barra ¿ Orlândia,0,1,0,0,0,1,0,1,1,1,4,2,11,Ipuã,3521309,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350033,Franca,1,0,0,0,0,0,0,0,0,0,0,0,1,Itirapuã,3523701,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350035,Ituverava,2,1,2,1,5,1,3,3,2,4,2,3,29,Ituverava,3524105,RA de Franca,Demais municípios,True
+3509,Araraquara,350036,Araraquara,3,0,5,6,1,2,2,3,3,2,1,1,29,Itápolis,3522703,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,0,0,0,0,0,0,0,0,0,0,0,0,0,Jaborandi,3524204,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,9,10,16,9,7,15,18,9,18,17,22,14,164,Jaboticabal,3524303,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,4,1,5,7,4,7,3,7,5,4,13,8,68,Jardinópolis,3525102,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350033,Franca,0,0,0,0,2,0,0,0,0,0,0,0,2,Jeriquara,3525409,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,1,0,0,0,0,0,1,0,0,0,2,Luís Antônio,3527603,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3509,Araraquara,350036,Araraquara,13,11,8,6,9,12,12,12,7,11,8,12,121,Matão,3529302,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350035,Ituverava,4,0,5,7,10,9,4,6,0,2,2,3,52,Miguelópolis,3529708,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,3,2,5,4,6,2,2,5,3,2,7,2,43,Monte Alto,3531308,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350032,Barretos,0,0,0,0,0,1,1,1,0,0,0,1,4,Monte Azul Paulista,3531506,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350034,São Joaquim da Barra ¿ Orlândia,4,3,2,3,2,1,4,3,2,2,1,7,34,Morro Agudo,3531902,RA de Franca,RM de Ribeirao Preto,True
+3509,Araraquara,350036,Araraquara,1,0,0,0,0,0,0,0,1,0,0,0,2,Motuca,3532058,RA Central,Demais municípios,True
+3509,Araraquara,350036,Araraquara,1,0,0,1,2,1,0,0,0,0,0,0,5,Nova Europa,3532900,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350034,São Joaquim da Barra ¿ Orlândia,0,1,0,0,0,0,0,0,1,0,1,1,4,Nuporanga,3533601,RA de Franca,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350032,Barretos,3,1,3,8,2,1,1,9,4,3,5,5,45,Olímpia,3533908,RA de Barretos,RM São José do Rio Preto,True
+3508,Ribeirão Preto,350034,São Joaquim da Barra ¿ Orlândia,1,2,1,2,3,1,0,3,4,3,1,4,25,Orlândia,3534302,RA de Franca,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350033,Franca,0,3,0,0,0,2,1,0,0,0,0,2,8,Patrocínio Paulista,3536307,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350033,Franca,1,0,2,0,1,0,0,0,1,0,3,0,8,Pedregulho,3537008,RA de Franca,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,0,0,1,2,1,1,0,0,2,7,Pirangi,3539004,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,2,0,3,3,5,1,2,0,2,2,1,0,21,Pitangueiras,3539509,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,5,0,9,0,1,0,4,2,2,1,4,2,30,Pontal,3540200,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3509,Araraquara,350037,São Carlos,5,4,6,9,8,10,4,7,11,1,6,3,74,Porto Ferreira,3540705,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,2,1,1,0,2,1,2,4,0,1,14,Pradópolis,3540903,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350033,Franca,0,0,0,0,0,0,0,0,1,0,1,1,3,Restinga,3542701,RA de Franca,Demais municípios,True
+3509,Araraquara,350037,São Carlos,0,0,0,2,0,0,3,2,0,0,1,1,9,Ribeirão Bonito,3542909,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350033,Franca,0,0,0,0,1,0,1,0,0,0,0,0,2,Ribeirão Corrente,3543105,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,181,203,276,213,210,229,180,215,222,244,207,212,2592,Ribeirão Preto,3543402,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350033,Franca,0,0,0,0,0,0,0,0,0,0,0,0,0,Rifaina,3543600,RA de Franca,Demais municípios,True
+3509,Araraquara,350036,Araraquara,0,0,1,1,1,1,0,1,0,0,3,0,8,Rincão,3543709,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350034,São Joaquim da Barra ¿ Orlândia,2,0,1,0,0,2,1,0,0,1,0,0,7,Sales Oliveira,3544905,RA de Franca,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,0,0,0,0,0,0,0,0,0,0,0,Santa Cruz da Esperança,3546256,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,0,0,1,0,1,0,1,1,0,3,7,Santa Ernestina,3546504,RA Central,Demais municípios,True
+3509,Araraquara,350036,Araraquara,0,0,1,0,1,0,1,0,0,1,1,1,6,Santa Lúcia,3546900,RA Central,Demais municípios,True
+3509,Araraquara,350037,São Carlos,5,0,3,1,2,2,0,0,3,0,1,0,17,Santa Rita do Passa Quatro,3547502,RA Central,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,1,0,0,2,0,1,1,1,1,0,1,0,8,Santa Rosa do Viterbo,3547601,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,1,0,2,1,0,0,0,1,0,1,0,0,6,Santo Antônio da Alegria,3547908,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,0,0,0,2,0,0,0,0,1,1,0,0,4,Serra Azul,3551405,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,3,4,9,8,8,10,6,6,5,3,8,10,80,Serrana,3551504,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,14,11,19,8,12,15,11,9,14,20,13,19,165,Sertãozinho,3551702,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350032,Barretos,0,1,0,1,0,0,0,0,0,1,0,1,4,Severínia,3551900,RA de Barretos,RM São José do Rio Preto,True
+3509,Araraquara,350037,São Carlos,36,27,32,26,22,51,53,37,35,43,36,37,435,São Carlos,3548906,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350034,São Joaquim da Barra ¿ Orlândia,2,1,0,4,3,0,2,3,1,1,1,4,22,São Joaquim da Barra,3549409,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350033,Franca,1,0,0,0,1,0,0,1,3,0,0,0,6,São José da Bela Vista,3549508,RA de Franca,Demais municípios,True
+3508,Ribeirão Preto,350031,Ribeirão Preto,2,2,0,0,1,2,1,0,2,0,1,1,12,São Simão,3550902,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3509,Araraquara,350036,Araraquara,0,1,0,2,2,1,1,1,1,0,0,0,9,Tabatinga,3552700,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,0,0,0,0,0,1,0,1,0,0,0,0,2,Taiaçu,3553104,RA de Barretos,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,0,0,1,1,0,0,1,0,0,0,1,1,5,Taiúva,3553203,RA de Barretos,RM de Ribeirao Preto,True
+3508,Ribeirão Preto,350032,Barretos,0,0,1,0,0,0,0,0,0,0,0,0,1,Taquaral,3553658,RA de Ribeirão Preto,RM de Ribeirao Preto,True
+3509,Araraquara,350036,Araraquara,4,1,2,3,1,4,2,6,1,5,2,3,34,Taquaritinga,3553708,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,2,1,0,0,0,0,0,2,0,0,1,0,6,Terra Roxa,3554409,RA de Barretos,Demais municípios,True
+3509,Araraquara,350036,Araraquara,0,0,0,0,0,0,0,0,2,0,0,0,2,Trabiju,3554755,RA Central,Demais municípios,True
+3508,Ribeirão Preto,350032,Barretos,2,1,0,1,0,1,0,0,2,0,2,1,10,Viradouro,3556800,RA de Barretos,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,1,0,0,0,0,1,0,2,0,0,2,0,6,Vista Alegre do Alto,3556909,RA de Barretos,Demais municípios,True
+3502,Sorocaba,350005,Registro,1,1,2,2,1,0,0,0,1,0,0,1,9,Barra do Turvo,3505401,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,29,25,23,20,21,26,34,29,23,30,44,49,353,Bertioga,3506359,RA de Santos,RM da Baixada Santista,True
+3502,Sorocaba,350005,Registro,1,1,4,2,4,0,1,3,3,5,5,3,32,Cajati,3509254,RA de Registro,Demais municípios,True
+3502,Sorocaba,350005,Registro,1,0,1,1,0,0,0,1,4,0,0,0,8,Cananéia,3509908,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,34,26,27,32,24,28,18,32,28,41,46,45,381,Cubatão,3513504,RA de Santos,RM da Baixada Santista,True
+3502,Sorocaba,350005,Registro,0,0,0,0,1,0,0,1,0,0,0,0,2,Eldorado,3514809,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,238,152,224,230,142,120,201,190,174,214,260,282,2427,Guarujá,3518701,RA de Santos,RM da Baixada Santista,True
+3502,Sorocaba,350005,Registro,0,1,4,3,1,1,1,3,1,0,0,1,16,Iguape,3520301,RA de Registro,Demais municípios,True
+3502,Sorocaba,350005,Registro,2,5,4,0,0,0,1,1,1,0,0,0,14,Ilha Comprida,3520426,RA de Registro,Demais municípios,True
+3502,Sorocaba,350005,Registro,0,0,0,0,0,0,0,0,0,0,0,0,0,Iporanga,3521200,RA de Itapeva,Demais municípios,True
+3501,São Paulo,350002,Santos,91,23,57,45,65,33,49,36,37,46,48,47,577,Itanhaém,3522109,RA de Santos,RM da Baixada Santista,True
+3501,São Paulo,350002,Santos,3,1,0,3,0,3,3,1,1,0,0,0,15,Itariri,3523305,RA de Registro,Demais municípios,True
+3502,Sorocaba,350005,Registro,0,0,1,0,0,0,0,1,0,3,1,2,8,Jacupiranga,3524600,RA de Registro,Demais municípios,True
+3502,Sorocaba,350005,Registro,3,1,4,4,0,1,0,2,3,1,2,1,22,Juquiá,3526100,RA de Registro,Demais municípios,True
+3502,Sorocaba,350005,Registro,16,11,19,6,3,4,4,7,9,10,8,7,104,Miracatu,3529906,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,140,40,36,37,45,46,45,32,24,31,31,46,553,Mongaguá,3531100,RA de Santos,RM da Baixada Santista,True
+3502,Sorocaba,350005,Registro,3,0,1,1,0,1,0,2,1,0,0,1,10,Pariquera-Açu,3536208,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,1,1,1,0,0,0,3,2,2,1,0,0,11,Pedro de Toledo,3537206,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,66,24,47,27,24,22,28,34,50,27,30,32,411,Peruíbe,3537602,RA de Santos,RM da Baixada Santista,True
+3501,São Paulo,350002,Santos,354,272,267,211,170,182,178,184,210,199,200,224,2651,Praia Grande,3541000,RA de Santos,RM da Baixada Santista,True
+3502,Sorocaba,350005,Registro,3,4,6,5,0,7,1,0,2,3,4,3,38,Registro,3542602,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,122,159,248,237,190,188,206,237,190,181,179,266,2403,Santos,3548500,RA de Santos,RM da Baixada Santista,True
+3502,Sorocaba,350005,Registro,1,1,0,0,0,1,0,3,1,0,0,0,7,Sete Barras,3551801,RA de Registro,Demais municípios,True
+3501,São Paulo,350002,Santos,198,173,207,196,154,177,197,201,180,168,213,202,2266,São Vicente,3551009,RA de Santos,RM da Baixada Santista,True
+3502,Sorocaba,350006,Itapetininga,1,0,0,0,0,0,1,0,2,0,1,0,5,Alambari,3500758,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,0,6,5,2,2,2,3,2,1,2,0,0,25,Alumínio,3501152,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350006,Itapetininga,0,1,0,1,1,0,1,0,1,0,0,0,5,Angatuba,3502200,RA de Itapeva,Demais municípios,True
+3503,Bauru,350011,Botucatu,0,0,0,0,0,0,0,0,0,0,0,0,0,Anhembi,3502309,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,1,0,0,0,0,0,1,0,0,0,1,1,4,Apiaí,3502705,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350007,Avaré,0,0,0,0,0,0,0,0,0,0,0,0,0,Arandu,3503109,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,2,2,4,2,4,2,1,3,5,1,6,4,36,Araçariguama,3502754,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,2,1,0,5,0,3,0,0,2,5,2,4,24,Araçoiaba da Serra,3502903,RA de Sorocaba,RM de Sorocaba,True
+3503,Bauru,350011,Botucatu,0,1,0,0,0,0,0,0,0,0,0,0,1,Areiópolis,3503604,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350007,Avaré,6,4,1,6,3,1,3,2,4,2,0,4,36,Avaré,3504503,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,0,0,0,0,0,Barra do Chapéu,3505351,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,0,0,0,0,0,Barão de Antonina,3505005,RA de Itapeva,Demais municípios,True
+3503,Bauru,350011,Botucatu,1,1,0,0,0,5,1,0,2,0,2,0,12,Bofete,3506904,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,9,18,15,11,12,14,13,11,12,13,13,13,154,Boituva,3507001,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,0,0,0,0,0,Bom Sucesso de Itararé,3507159,RA de Itapeva,Demais municípios,True
+3503,Bauru,350011,Botucatu,1,2,4,3,3,3,3,1,12,10,9,9,60,Botucatu,3507506,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,1,0,2,1,1,0,1,0,2,0,8,Buri,3508009,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350006,Itapetininga,0,0,0,0,0,0,0,0,0,0,1,1,2,Campina do Monte Alegre,3509452,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,2,0,1,1,0,0,0,2,1,4,0,0,11,Capela do Alto,3510302,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350004,Itapeva,3,1,3,8,5,5,2,6,6,3,3,8,53,Capão Bonito,3510203,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350007,Avaré,0,0,2,2,0,0,1,3,2,0,0,2,12,Cerqueira César,3511409,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,4,4,1,4,2,0,2,5,3,2,5,4,36,Cerquilho,3511508,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350008,Tatuí,1,1,2,2,1,0,0,0,0,0,1,1,9,Cesário Lange,3511607,RA de Sorocaba,RM de Sorocaba,True
+3503,Bauru,350011,Botucatu,1,0,0,0,0,2,3,1,1,0,2,2,12,Conchas,3512308,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350007,Avaré,0,0,0,0,0,0,0,0,0,0,0,0,0,Coronel Macedo,3512605,RA de Itapeva,Demais municípios,True
+3504,Marília,350017,Piraju,0,0,1,0,0,0,0,0,0,1,0,0,2,Fartura,3515400,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,1,0,1,0,0,1,0,0,0,0,1,0,4,Guapiara,3517604,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350006,Itapetininga,0,2,0,0,1,1,1,1,2,1,1,1,11,Guareí,3518503,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350007,Avaré,0,1,1,0,0,1,1,0,0,1,0,0,5,Iaras,3519253,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,4,3,8,5,8,5,16,15,4,4,7,10,89,Ibiúna,3519709,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,2,1,1,2,1,0,2,1,0,1,2,3,16,Iperó,3521002,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,1,0,0,1,0,0,0,0,2,Itaberá,3521705,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350006,Itapetininga,19,10,21,9,9,20,9,10,10,12,8,13,150,Itapetininga,3522307,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350004,Itapeva,5,3,5,7,9,12,10,1,4,6,2,1,65,Itapeva,3522406,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,0,0,0,0,0,Itapirapuã Paulista,3522653,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,2,0,0,1,1,0,0,0,0,0,4,Itaporanga,3522802,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,6,1,4,2,3,5,5,5,2,2,4,2,41,Itararé,3523206,RA de Itapeva,Demais municípios,True
+3503,Bauru,350011,Botucatu,2,0,0,0,1,1,1,0,0,0,0,1,6,Itatinga,3523503,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350007,Avaré,1,3,1,1,1,0,4,0,3,1,1,1,17,Itaí,3521804,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,0,0,0,0,0,Itaóca,3522158,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,8,11,14,15,16,14,20,22,14,14,9,19,176,Itu,3523909,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,0,0,0,0,0,0,1,0,0,0,0,0,1,Jumirim,3525854,RA de Sorocaba,RM de Sorocaba,True
+3510,Campinas,350040,Piracicaba,2,0,2,1,2,2,0,2,1,0,2,0,14,Laranjal Paulista,3526407,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,9,7,3,3,3,0,2,5,5,3,5,4,49,Mairinque,3528403,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350007,Avaré,3,0,0,0,1,1,1,0,0,0,0,0,6,Manduri,3528601,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,1,1,0,0,2,Nova Campina,3532827,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350007,Avaré,1,2,1,0,2,1,0,0,0,0,0,1,8,Paranapanema,3535804,RA de Itapeva,Demais municípios,True
+3503,Bauru,350011,Botucatu,0,2,1,0,0,0,1,0,1,0,1,1,7,Pardinho,3536109,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350008,Tatuí,0,0,2,0,0,0,0,1,0,0,0,0,3,Pereiras,3537503,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,3,2,2,4,4,1,2,6,2,2,1,4,33,Piedade,3537800,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,1,1,2,1,3,0,0,0,1,0,0,3,12,Pilar do Sul,3537909,RA de Sorocaba,RM de Sorocaba,True
+3504,Marília,350017,Piraju,1,1,0,2,1,4,1,3,3,0,2,2,20,Piraju,3538808,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350008,Tatuí,0,0,3,0,1,2,0,2,0,0,0,0,8,Porangaba,3540507,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,5,3,8,3,2,2,4,3,4,4,8,2,48,Porto Feliz,3540606,RA de Sorocaba,RM de Sorocaba,True
+3503,Bauru,350011,Botucatu,0,0,0,0,1,2,0,0,1,0,0,0,4,Pratânia,3541059,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350008,Tatuí,2,0,1,1,2,0,0,1,0,2,0,0,9,Quadra,3541653,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,1,0,0,0,1,1,0,0,0,3,Ribeira,3542800,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,1,1,2,0,0,0,0,0,0,0,0,1,5,Ribeirão Branco,3543006,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,0,0,0,0,0,Ribeirão Grande,3543253,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,2,0,0,0,2,Riversul,3543501,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,9,7,7,6,6,6,8,9,13,8,9,3,91,Salto,3545209,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,2,2,3,6,6,9,8,1,2,4,4,5,52,Salto de Pirapora,3545308,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,0,0,0,1,3,0,0,0,1,1,2,0,8,Sarapuí,3551108,RA de Sorocaba,RM de Sorocaba,True
+3504,Marília,350017,Piraju,0,0,0,0,0,0,0,0,0,0,0,1,1,Sarutaiá,3551207,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,113,97,143,132,125,151,140,140,108,125,114,104,1492,Sorocaba,3552205,RA de Sorocaba,RM de Sorocaba,True
+3503,Bauru,350011,Botucatu,1,1,1,2,5,3,2,1,1,0,1,3,21,São Manuel,3550100,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350006,Itapetininga,5,1,2,2,2,4,2,3,3,3,0,0,27,São Miguel Arcanjo,3550209,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350003,Sorocaba,8,9,9,15,14,4,11,18,13,7,14,10,132,São Roque,3550605,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350007,Avaré,0,0,0,0,2,1,0,0,0,0,0,0,3,Taguaí,3553005,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,0,0,0,1,0,1,0,0,1,0,0,1,4,Tapiraí,3553500,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350007,Avaré,1,3,2,3,4,2,1,1,1,1,3,1,23,Taquarituba,3553807,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350004,Itapeva,0,0,0,0,0,0,0,0,0,0,1,0,1,Taquarivaí,3553856,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350008,Tatuí,7,8,19,13,9,9,10,10,14,14,16,17,146,Tatuí,3554003,RA de Sorocaba,RM de Sorocaba,True
+3504,Marília,350017,Piraju,0,0,0,1,0,0,0,0,0,0,0,0,1,Tejupá,3554201,RA de Itapeva,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,2,0,2,5,3,4,5,6,5,6,2,2,42,Tietê,3554508,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350008,Tatuí,0,0,0,0,0,0,0,0,1,0,0,0,1,Torre de Pedra,3554656,RA de Sorocaba,Demais municípios,True
+3502,Sorocaba,350003,Sorocaba,12,13,14,15,12,10,7,13,10,7,2,7,122,Votorantim,3557006,RA de Sorocaba,RM de Sorocaba,True
+3502,Sorocaba,350007,Avaré,0,0,1,0,0,0,0,0,1,0,1,0,3,Águas de Santa Bárbara,3500550,RA de Sorocaba,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,0,0,0,0,0,Adolfo,3500204,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,1,0,0,0,0,0,0,1,0,1,3,Américo de Campos,3501806,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,1,0,0,0,0,0,0,0,0,0,0,0,1,Aparecida d'Oeste,3502606,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,1,1,0,0,2,0,1,0,0,5,Ariranha,3503703,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Aspásia,3503950,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,2,0,1,0,0,0,3,Bady Bassitt,3504602,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,2,1,0,0,0,0,1,0,2,0,6,Bálsamo,3504800,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,0,0,0,1,0,0,0,1,0,0,2,Cardoso,3510708,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,4,1,8,6,7,7,3,4,0,3,2,5,50,Catanduva,3511102,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,0,0,0,1,0,0,0,0,0,1,Catiguá,3511201,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,1,1,0,0,0,1,0,0,0,0,3,Cedral,3511300,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,0,1,0,0,0,0,0,0,0,0,1,Cosmorama,3512902,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Dirce Reis,3513850,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Dolcinópolis,3514205,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,1,0,0,0,0,0,0,0,0,0,1,Elisiário,3514924,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,1,1,0,0,0,0,1,0,0,0,3,Estrela d'Oeste,3515202,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350029,Fernandópolis,5,1,4,3,2,2,1,3,1,3,1,0,26,Fernandópolis,3515509,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,0,0,0,1,0,0,0,0,0,0,1,Floreal,3515905,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,3,0,0,5,1,1,0,2,0,2,14,Guapiaçu,3517505,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Guarani d'Oeste,3518008,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,1,0,0,1,1,1,0,0,4,Ibirá,3519402,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,1,0,0,0,1,Icém,3519808,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,0,0,0,1,0,0,0,0,0,0,1,Indiaporã,3520707,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,1,0,0,0,0,0,0,0,0,0,1,Ipiguá,3521150,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,0,0,0,0,0,Irapuã,3521507,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,0,0,0,0,2,1,0,0,0,3,Itajobi,3521903,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,1,0,0,0,0,1,0,0,0,1,0,3,Jaci,3524501,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350028,Jales,0,1,3,0,4,1,2,2,1,5,1,1,21,Jales,3524808,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,4,1,0,1,0,2,2,1,2,2,2,3,20,José Bonifácio,3525706,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,0,0,0,0,0,Macaubal,3528106,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Macedônia,3528205,RA de São José do Rio Preto,Demais municípios,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,0,0,0,0,0,0,Magda,3528304,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,1,0,0,0,0,0,0,0,0,0,0,0,1,Marapoama,3528858,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,1,0,0,0,0,0,0,0,0,0,0,1,Marinópolis,3529104,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,1,1,0,0,0,0,0,0,0,0,2,Mendonça,3529500,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,1,0,0,0,0,0,0,0,0,0,1,Meridiano,3529609,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Mesópolis,3529658,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Mira Estrela,3530003,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,3,0,5,7,1,1,5,3,3,2,2,2,34,Mirassol,3530300,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,1,0,1,0,1,0,3,Mirassolândia,3530409,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,1,0,0,0,1,2,0,1,0,0,1,0,6,Monte Aprazível,3531407,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3506,Araçatuba,350022,Araçatuba,0,0,0,0,0,0,0,0,0,0,1,0,1,Monções,3531001,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,1,0,0,0,0,2,3,Neves Paulista,3532504,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350027,Votuporanga,0,1,0,0,1,1,0,1,0,1,0,1,6,Nhandeara,3532603,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,0,0,1,1,2,Nipoã,3532702,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,2,0,1,0,3,Nova Aliança,3532801,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350030,Santa Fé do Sul,0,0,0,0,0,0,0,0,0,0,0,0,0,Nova Canaã Paulista,3532843,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,3,1,0,1,1,1,2,1,1,2,1,1,15,Nova Granada,3533007,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,0,0,0,0,0,0,0,0,0,0,Novais,3533254,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,1,1,2,2,4,4,0,4,1,1,1,0,21,Novo Horizonte,3533502,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,1,0,0,0,0,1,Onda Verde,3534005,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,1,1,0,0,0,0,0,2,Orindiúva,3534203,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350029,Fernandópolis,1,0,1,0,1,0,0,0,0,0,0,0,3,Ouroeste,3534757,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,1,1,1,0,0,0,3,Palestina,3535002,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,1,0,1,1,1,0,0,0,0,4,Palmares Paulista,3535101,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Palmeira d'Oeste,3535200,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Paranapuã,3535903,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,0,0,0,0,0,0,1,1,0,0,0,0,2,Paraíso,3535705,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350027,Votuporanga,1,0,0,0,0,0,1,0,0,0,0,0,2,Parisi,3536257,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,0,0,0,0,0,0,0,Paulo de Faria,3536604,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Pedranópolis,3536901,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,1,0,0,0,0,0,1,0,1,1,0,0,4,Pindorama,3538105,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,1,0,0,0,0,0,0,0,0,1,Planalto,3539608,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,1,0,0,0,0,0,0,0,2,0,3,Poloni,3539905,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,1,0,0,0,0,0,1,Pontalinda,3540259,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,0,0,0,0,0,0,0,0,0,0,0,Pontes Gestal,3540309,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Populina,3540408,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,1,0,3,0,1,1,1,2,5,1,1,2,18,Potirendaba,3540804,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,0,1,0,0,0,0,0,0,0,0,1,Riolândia,3544202,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350030,Santa Fé do Sul,0,0,0,0,0,0,0,0,0,0,0,0,0,Rubinéia,3544509,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,1,0,0,0,0,0,0,0,0,0,1,Sales,3544806,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350026,Catanduva,1,1,0,1,0,0,0,0,1,1,0,0,5,Santa Adélia,3545605,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Santa Albertina,3545704,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350030,Santa Fé do Sul,0,0,0,0,0,0,0,0,0,0,0,0,0,Santa Clara d'Oeste,3546108,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350030,Santa Fé do Sul,2,2,0,1,1,2,1,0,0,3,2,2,16,Santa Fé do Sul,3546603,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350030,Santa Fé do Sul,1,1,0,0,0,0,0,0,0,0,0,0,2,Santa Rita d'Oeste,3547403,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,1,0,0,0,0,0,0,0,1,0,2,Santa Salete,3547650,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350030,Santa Fé do Sul,0,0,0,0,0,0,0,0,0,0,0,0,0,Santana da Ponte Pensa,3547205,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,0,0,0,0,0,0,0,0,0,0,0,Sebastianópolis do Sul,3551306,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,São Francisco,3549003,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,47,44,79,53,55,81,64,68,58,75,69,50,743,São José do Rio Preto,3549805,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350029,Fernandópolis,0,0,0,1,0,0,0,0,0,0,0,0,1,São João das Duas Pontes,3549201,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350026,Catanduva,2,0,0,0,0,0,0,0,0,1,2,0,5,Tabapuã,3552601,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,4,1,1,2,5,1,0,0,1,1,0,0,16,Tanabi,3553401,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350030,Santa Fé do Sul,0,0,0,0,0,0,0,0,0,0,0,0,0,Três Fronteiras,3554904,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Turmalina,3555307,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,1,1,0,0,0,0,0,0,0,0,0,2,Ubarana,3555356,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,1,1,1,0,0,0,3,Uchôa,3555604,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,0,0,0,0,0,1,0,0,0,0,0,1,União Paulista,3555703,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350025,São José do Rio Preto,0,1,0,0,0,1,0,1,0,0,0,0,3,Urupês,3556008,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350028,Jales,0,1,0,0,0,0,0,1,0,2,0,1,5,Urânia,3555802,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350027,Votuporanga,0,1,0,0,0,0,0,1,0,0,0,0,2,Valentim Gentil,3556107,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350028,Jales,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitória Brasil,3556958,RA de São José do Rio Preto,Demais municípios,True
+3507,São José do Rio Preto,350027,Votuporanga,10,8,8,11,7,7,4,2,1,0,1,9,68,Votuporanga,3557105,RA de São José do Rio Preto,Demais municípios,True
+3506,Araçatuba,350023,Birigui - Penápolis,0,0,0,0,0,0,0,0,0,0,0,0,0,Zacarias,3557154,RA de São José do Rio Preto,RM São José do Rio Preto,True
+3507,São José do Rio Preto,350027,Votuporanga,0,0,0,0,0,0,0,0,0,0,0,0,0,Álvares Florence,3501202,RA de São José do Rio Preto,Demais municípios,True
+3511,São José dos Campos,350052,Guaratinguetá,13,4,10,4,8,4,5,8,5,3,4,3,71,Aparecida,3502507,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,0,0,0,0,0,0,0,0,0,0,0,0,0,Arapeí,3503158,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,0,0,0,0,0,2,0,0,0,0,0,0,2,Areias,3503505,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,0,0,0,0,0,0,1,0,0,0,0,0,1,Bananal,3504909,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,2,2,4,1,6,2,2,5,0,2,2,1,29,Cachoeira Paulista,3508603,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,1,3,2,5,4,6,3,4,1,9,3,6,47,Campos do Jordão,3509700,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350052,Guaratinguetá,0,1,3,0,1,1,1,0,2,2,0,0,11,Canas,3509957,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350051,Caraguatatuba - Ubatuba - São Sebastião,46,37,50,19,24,20,25,18,24,31,25,35,354,Caraguatatuba,3510500,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,17,13,14,9,18,15,19,29,27,15,17,16,209,Caçapava,3508504,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,6,10,13,7,8,5,9,11,11,11,16,15,122,Cruzeiro,3513405,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350052,Guaratinguetá,0,2,1,1,0,1,0,1,0,0,2,1,9,Cunha,3513603,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350052,Guaratinguetá,20,19,22,26,15,10,12,12,4,10,10,12,172,Guaratinguetá,3518404,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,2,3,1,0,1,1,1,1,1,0,0,3,14,Igaratá,3520202,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350051,Caraguatatuba - Ubatuba - São Sebastião,4,1,1,0,3,0,1,2,3,0,0,1,16,Ilhabela,3520400,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,65,37,36,38,35,29,28,25,20,40,13,30,396,Jacareí,3524402,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,0,0,0,0,0,0,1,0,0,0,2,0,3,Jambeiro,3524907,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,0,0,0,2,0,0,0,0,0,0,1,0,3,Lagoinha,3526308,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,1,1,2,1,0,1,0,3,0,2,1,0,12,Lavrinhas,3526605,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350052,Guaratinguetá,11,17,19,20,12,13,15,12,9,10,8,17,163,Lorena,3527207,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,1,0,0,0,0,1,0,0,0,0,0,0,2,Monteiro Lobato,3531704,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,0,0,0,0,0,0,0,0,0,0,0,0,0,Natividade da Serra,3532306,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,0,1,2,1,0,0,0,0,0,1,0,3,8,Paraibuna,3535606,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,23,15,37,24,18,15,15,25,12,13,16,23,236,Pindamonhangaba,3538006,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350052,Guaratinguetá,0,0,0,1,0,0,1,2,0,2,0,0,6,Piquete,3538501,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350052,Guaratinguetá,1,0,3,1,1,0,3,0,1,0,0,1,11,Potim,3540754,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,3,2,1,2,3,0,0,2,4,0,0,1,18,Queluz,3541901,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,0,0,0,0,0,0,0,0,0,1,0,0,1,Redenção da Serra,3542305,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350052,Guaratinguetá,3,3,1,2,1,2,1,0,0,1,0,0,14,Roseira,3544301,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,0,2,0,0,4,1,0,0,2,0,1,0,10,Santa Branca,3546009,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,0,0,0,0,0,1,0,0,0,1,0,1,3,Santo Antônio do Pinhal,3548203,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,1,0,0,1,0,0,0,0,0,0,1,0,3,Silveiras,3552007,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,0,0,0,0,0,0,0,0,0,1,1,1,3,São Bento do Sapucaí,3548609,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350053,Cruzeiro,0,0,0,0,0,0,0,0,0,0,0,0,0,São José do Barreiro,3549607,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350049,São José dos Campos,109,101,127,122,105,136,95,103,123,145,83,110,1359,São José dos Campos,3549904,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,1,0,1,0,0,0,0,0,0,0,0,0,2,São Luís do Paraitinga,3550001,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350051,Caraguatatuba - Ubatuba - São Sebastião,21,8,18,9,11,6,7,13,19,13,12,10,147,São Sebastião,3550704,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,60,46,64,59,74,78,64,84,74,82,88,69,842,Taubaté,3554102,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350050,Taubaté - Pindamonhangaba,3,5,1,2,4,4,6,4,1,4,0,4,38,Tremembé,3554805,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True
+3511,São José dos Campos,350051,Caraguatatuba - Ubatuba - São Sebastião,43,12,16,7,18,18,8,21,15,29,54,23,264,Ubatuba,3555406,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,True

@@ -1,12 +1,12 @@
 # Processamento dos dados SSP-SP (Secrataria da Segurança Pública do Governo de São Paulo)
 
 Com o intuito de explorar os dados abertos disponíveis que circundam a temática de Análise criminal, optou-se por, inicialmente, extrair as informações da SSP-SP. 
-
+    
 Para isso, foi necessário criar um script .py com ***Selenium***, uma vez que o website https://www.ssp.sp.gov.br/estatistica/dados-mensais apenas fornece um único download por município, e isso seria inviável de ser realizado manualmente.
 
 
 <div style="text-align: center;">
-  <img src="image.png" alt="Texto Alternativo" width="500"/>
+  <img src="exemplo_base_SSP-SP.png" alt="Texto Alternativo" width="500"/>
   <p><em>Exemplo de base: ano: 2023, Região: Campinas, Município: Campinas</em></p>
 </div>
 
@@ -56,4 +56,10 @@ Após o download da amostra dos anos de 2023 e 2024 para a região de Campinas, 
 <div style="text-align: center;">
   <p><em>Exemplo da base pós-processada de registros criminais de 2024 - tentativa_de_homicídio</em></p>
 </div>
+
+# Considerações finais para a agregação da base no projeto
+
+Optou-se por utilizar os dados do período 2010-2022 
+
+Erros na variável 'estupro', que podem ser acessadas pela a variável "total_estupro(4)". Que considera a soma entre os estupros e os estupros de vulneráveis.
 

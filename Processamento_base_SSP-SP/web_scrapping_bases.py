@@ -22,7 +22,6 @@ prefs = {"download.default_directory": caminho_downloads,
 
 chrome_options.add_experimental_option("prefs", prefs)
 
-
 servico = Service(ChromeDriverManager().install())
 navegador = webdriver.Chrome(service=servico, options=chrome_options)
 
@@ -106,14 +105,15 @@ def baixar_dados_por_ano_regiao(anos_selecionados, regioes_selecionadas):
                         
                             time.sleep(2)
 
+
 def main():
     """Exemplo para baixar os Dados de 2022 referente a todos os municípios
     """
-    anos = ['2022']
+    anos = ['2010', '2011', '2012', '2013', '2015', '2017']
     regioes = ['Araçatuba', 'Bauru', 'Campinas', 'Capital', 'Grande São Paulo (exclui a Capital)',
         'Piracicaba', 'Presidente Prudente', 'Ribeirão Preto', 'Santos', 'São José do Rio Preto',
         'São José dos Campos', 'Sorocaba']
-    
+
     baixar_dados_por_ano_regiao(anos, regioes)
 
 if __name__ == "__main__":
