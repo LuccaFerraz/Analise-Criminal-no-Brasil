@@ -1,0 +1,23 @@
+.year-button {
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 15px;
+    margin: 5px;
+    border: 2px solid black;  /* Borda preta para destacar */
+    background-color: white; /* Fundo branco */
+    color: black; /* Cor do texto */
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.year-button:hover {
+    background-color: black; /* Azul claro ao passar o mouse */
+    color: white; /* Texto branco ao passar o mouse */
+    transform: scale(1.05); /* Leve aumento no hover */
+}
+
+.year-button:active {
+    background-color: black; /* Azul escuro ao clicar */
+    color: white;
+}
