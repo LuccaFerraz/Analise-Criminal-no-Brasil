@@ -67,6 +67,8 @@ def mapa_dist(geojson: Dict,
         map_center={"lat": -22.45, "lon": -48.63}, 
         margin={"r":0,"t":0,"l":0,"b":0},
         map_style='carto-positron',
+        paper_bgcolor = "rgba(0, 0, 0, 0)",
+        font=dict(color='black'),
     )
     
     return fig

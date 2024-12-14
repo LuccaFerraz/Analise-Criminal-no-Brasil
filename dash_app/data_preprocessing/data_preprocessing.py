@@ -125,6 +125,12 @@ def autocorr_stats(y: pd.Series,
         }
         
         nonsignificant_color = 'lightgray'
+
+        lisa = Moran_Local(y, w)
+        autocorr_df['LISA'] = lisa.Is
+        autocorr_df['Significância_lisa'] = lisa.p_sim
+        autocorr_df['quadrant'] = lisa.q
+
         autocorr_df['color'] = autocorr_df.apply(
             lambda row: quadrant_colors.get(row['quadrant'], nonsignificant_color) if row['Significância_lisa'] < 0.05 else nonsignificant_color,
             axis=1
@@ -135,11 +141,7 @@ def autocorr_stats(y: pd.Series,
             axis=1
         )
         
-        lisa = Moran_Local(y, w)
-        autocorr_df['LISA'] = lisa.Is
-        autocorr_df['Significância_lisa'] = lisa.p_sim
-        autocorr_df['quadrant'] = lisa.q
-
+        
         return autocorr_df
     
     elif metric == 'G_local':
@@ -159,4 +161,54 @@ def autocorr_stats(y: pd.Series,
         return autocorr_df
     else:
         raise ValueError(f"Métrica '{metric}' não reconhecida. Escolha entre 'Global Morans I', 'Local Morans I' ou 'G_local'.")
+
+def agg_crime(ano, granularidade, crime_interesse):
+    variavel_interesse = f"{crime_interesse}{ano}"
+    
+    colunas = ['cod_ibge', 'Municipio', 'NRGInter', 'NRGIme', variavel_interesse]
+    df_ano = acessar_dataframe(ano, colunas)
+    
+    if granularidade == 'Estado':
+        # Todos os municípios pertencem ao mesmo estado, soma direta
+        df_agrupado = pd.DataFrame({f"Total {variavel_interesse}": [df_ano[variavel_interesse].sum()]})
+        df_agrupado['Granularidade'] = 'Estado'
+        
+    elif granularidade == 'Região Intermediária':
+        df_agrupado = df_ano.groupby('NRGInter', as_index=False).agg({variavel_interesse: 'sum'})
+        df_agrupado.rename(columns={variavel_interesse: f"Total {variavel_interesse}"}, inplace=True)
+        
+    elif granularidade == 'Região Imediata':
+        df_agrupado = df_ano.groupby('NRGIme', as_index=False).agg({variavel_interesse: 'sum'})
+        df_agrupado.rename(columns={variavel_interesse: f"Total {variavel_interesse}"}, inplace=True)
+        
+    elif granularidade == 'Municipal':
+        df_agrupado = df_ano.groupby('Municipio', as_index=False).agg({variavel_interesse: 'sum'})
+        df_agrupado.rename(columns={variavel_interesse: f"Total {variavel_interesse}"}, inplace=True)
+        
+    else:
+        raise ValueError("Granularidade inválida. Escolha entre 'Estado', 'Região Intermediária', 'Região Imediata', ou 'Municipal'.")
+    
+    return df_agrupado
+
+
+def time_series(anos, granularidade, crime_interesse, local=None):
+    
+    resultados = []
+    
+    for ano in anos:
+        df_agrupado = agg_crime(ano, granularidade, crime_interesse)
+        
+        if local:
+            # Filtrar para o local específico, se fornecido
+            if granularidade == 'Região Intermediária':
+                df_agrupado = df_agrupado[df_agrupado['NRGInter'] == local]
+            elif granularidade == 'Região Imediata':
+                df_agrupado = df_agrupado[df_agrupado['NRGIme'] == local]
+
+        resultados.append(df_agrupado.iloc[0, 1])
+        
+    return anos, resultados
+    
+        
+        
     

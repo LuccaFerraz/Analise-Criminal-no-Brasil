@@ -19,8 +19,7 @@ def carregar_shapefiles(diretorio_base='Shapefiles_auxiliares', shapefile_name=N
                 
                 nome_shapefile = arquivo.replace('.shp', '')
                 shapefiles[nome_shapefile] = gpd.read_file(caminho_shapefile)
-            
-    
+
     if shapefile_name:
         if shapefile_name in shapefiles:
             return shapefiles[shapefile_name]

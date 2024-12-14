@@ -2,7 +2,7 @@ import plotly.graph_objects as go
 import pandas as pd
 from typing import Union, List, Dict
 
-def G_local(Municipios: pd.Series,
+def G_local(Estados: pd.Series,
             gi: Union[pd.Series, List[float]],
             geojson: Dict, 
             indices: Union[pd.Series, List[Union[str, int]]]) -> go.Figure:
@@ -21,7 +21,7 @@ def G_local(Municipios: pd.Series,
         
     """
     
-    hover = 'Município: ' + Municipios + '<br> Z-score: ' + gi.round(2).astype(str)
+    hover = 'Estado: ' + Estados + '<br> Z-score: ' + gi.round(2).astype(str)
 
     fig = go.Figure()
     fig.add_trace(go.Choroplethmap(
