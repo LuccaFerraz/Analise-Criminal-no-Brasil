@@ -1,9 +1,11 @@
-﻿# Análise Geoespacial das Ocorrências Criminais no Estado de São Paulo
----
 
+ 
+ 
+# Análise Geoespacial das Ocorrências Criminais no Estado de São Paulo
 ### Demonstração da Plataforma
 
----
+https://github.com/user-attachments/assets/30c68053-0245-4769-bb72-55a3ba8a6bf8
+
 ## Importância do Estudo de Padrões Criminais
 A análise de padrões criminais desempenha um papel fundamental em países marcados por consideráveis desigualdades socioeconômicas, como o Brasil. A extensiva geografia do território nacional reflete uma diversidade de realidades sociais, econômicas e culturais, que impactam diretamente nas dinâmicas e nos tipos de ocorrências criminais em diferentes regiões. Entender esses padrões é essencial para o planejamento de políticas públicas eficazes, permitindo a identificação de áreas vulneráveis, a otimização de recursos de segurança e a promoção de ações preventivas com maior impacto social.
 
